@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">i am 19 yo kid who love do code and media things!<br><br>mostly prefer Datas, NLP and Back-End Stuffs.</p>
+<p align="center">i am 19 yo full stack dev love do code and media things!<br><br>mostly prefer Datas, NLP and Back-End Stuffs.</p>
 
 ###
 
