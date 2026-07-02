@@ -24,7 +24,6 @@
 <p align="left" style="max-width: 650px;">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhuffy0&show_icons=true&theme=default&bg_color=0D1117&title_color=70B5FF&text_color=FFFFFF&icon_color=70B5FF&hide_border=true&count_private=true&include_all_commits=true" style="background: transparent !important;" />
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mhuffy0&layout=compact&theme=default&bg_color=0D1117&title_color=70B5FF&text_color=FFFFFF&hide_border=true&langs_count=6" style="background: transparent !important;" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=Mhuffy0&theme=dark&background=0D1117&ring=70B5FF&fire=70B5FF&currStreakLabel=70B5FF&hide_border=true" style="background: transparent !important;" />
 </p>
 
 <br clear="right" />
