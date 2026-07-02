@@ -3,10 +3,7 @@
 # i eat code and write bread
 
 
-<img width="2600" height="2160" alt="2" src="https://github.com/user-attachments/assets/263378b9-ad0c-4187-b41b-112f0318d154" /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-<img width="370" height="600" alt="poru8bit" src="https://github.com/user-attachments/assets/b275cfbd-29b9-476e-91ef-47f0ea0247d6" />
-
+ <img width="1503" height="1998" alt="2 - Copy" src="https://github.com/user-attachments/assets/1356d9ff-4b74-4a79-b22f-fbe4aa09824a" /> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mhuffy0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhuffyDev@mhuffy.net) 
 
