@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="200" alt="Mahorag Header" src="https://github.com/user-attachments/assets/3de86585-1c4f-4c6b-8af1-3e84e2ac5337" />
+<img width="100%" height="200" alt="banner" src="https://github.com/user-attachments/assets/673e210e-40ba-4b39-90f2-3549c0612062" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&pause=1000&color=70B5FF&center=true&vCenter=true&width=800&height=50&lines=EAT+CODE%2C+DRINK+COFFEE;STUDYING+PYTHON+%26+RUST" alt="Typing SVG" />
@@ -19,7 +19,7 @@
 
 <br/>
 
-<img decoding="async" align="right" src="https://github.com/user-attachments/assets/1356d9ff-4b74-4a79-b22f-fbe4aa09824a" width="24%" style="background: transparent !important; margin-left: 20px; position: relative; z-index: 1;" />
+<img decoding="async" align="right" src="https://github.com/user-attachments/assets/5aa62e21-3bf1-42b7-85cf-88757a4b4115" width="24%" style="background: transparent !important; margin-left: 20px; position: relative; z-index: 1;" />
 
 <p align="left" style="max-width: 650px;">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhuffy0&show_icons=true&theme=default&bg_color=0D1117&title_color=70B5FF&text_color=FFFFFF&icon_color=70B5FF&hide_border=true&count_private=true&include_all_commits=true" style="background: transparent !important;" />
