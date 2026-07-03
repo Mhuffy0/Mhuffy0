@@ -19,7 +19,7 @@
 
 <br/>
 
-<img decoding="async" align="right" src="https://github.com/user-attachments/assets/5aa62e21-3bf1-42b7-85cf-88757a4b4115" width="24%" style="background: transparent !important; margin-left: 20px; position: relative; z-index: 1;" />
+<img decoding="async" align="right" src="https://github.com/user-attachments/assets/5aa62e21-3bf1-42b7-85cf-88757a4b4115" width="35%" style="background: transparent !important; margin-left: 20px; position: relative; z-index: 1;" />
 
 <p align="left" style="max-width: 650px;">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhuffy0&show_icons=true&theme=default&bg_color=0D1117&title_color=70B5FF&text_color=FFFFFF&icon_color=70B5FF&hide_border=true&count_private=true&include_all_commits=true" style="background: transparent !important;" />
